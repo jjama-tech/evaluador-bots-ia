@@ -26,7 +26,6 @@ El agente opera bajo una arquitectura modular compuesta por tres componentes ló
              │
              ▼
 [ Botón: Generar Reporte ]     ---> [ Analizador QA ] ---> (Reporte en Barra Lateral)
-
 ---
 
 ## Instrucciones de Instalación y Ejecución
