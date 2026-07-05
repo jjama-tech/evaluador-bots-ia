@@ -27,7 +27,7 @@ Ollama instalado y autenticado localmente en la PC con acceso activo a Ollama Cl
 
 Pasos para la configuración local
 1. Clonar el repositorio:
-git clone [https://github.com/jjama-tech/evaluador-bots-ia.git]
+git clone [https://github.com/jjama-tech/evaluador-bots-ia.git](https://github.com/jjama-tech/evaluador-bots-ia.git)
 cd simulador_clientes_ai
 
 2. Crear y activar el entorno virtual en Windows (PowerShell):
