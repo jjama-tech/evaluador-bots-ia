@@ -1,0 +1,15 @@
+# Entornos virtuales (Carpetas pesadas de Python)
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Archivo local con contraseñas y API Keys reales
+.env
+
+# Archivos del sistema operativo Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
